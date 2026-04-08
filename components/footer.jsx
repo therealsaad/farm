@@ -104,8 +104,7 @@ export default function Footer() {
 
         <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-xs opacity-50">
-            2026 FunFarm. All rights reserved. Built by Full-Stack Developer | MERN Stack + AI
-          </p>
+            2026 FunFarm. All rights reserved. Built by saad Dev        </p>
           <div className="flex items-center gap-1 text-xs opacity-50">
             <span>Powered by</span>
             <span className="font-semibold">AI-Driven Discovery & Real-Time Booking</span>
