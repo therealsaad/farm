@@ -1,6 +1,5 @@
 # FunFarm - Premium Farmhouse Booking Platform
 
-![FunFarm](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&h=600&fit=crop)
 
 > AI-powered farmhouse discovery, real-time booking, and role-based management system built with MERN Stack
 
